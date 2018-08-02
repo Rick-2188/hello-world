@@ -5,8 +5,8 @@ Hi my name is Ricardo Araya, and this is a test commit where I'm suppose to tell
 
 Bio:
 
-Male
-Single
-30 years old
-Chilean
+Male,
+Single,
+30 years old,
+Chilean,
 New to programming
